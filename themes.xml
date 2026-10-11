@@ -1,0 +1,3 @@
+<resources>
+<style name="Theme.HisabPro" parent="Theme.AppCompat.DayNight.NoActionBar"><item name="android:windowBackground">@color/brand</item><item name="android:statusBarColor">@color/brand</item><item name="android:navigationBarColor">@color/brand</item></style>
+<style name="Theme.HisabPro.Splash" parent="Theme.SplashScreen"><item name="windowSplashScreenBackground">@color/brand</item><item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item><item name="postSplashScreenTheme">@style/Theme.HisabPro</item></style></resources>

@@ -1,0 +1,25 @@
+TITLE (max 30): HisabPro – Calculator
+SHORT (max 80): All-in-one calculator with EMI, VAT, Age, Date, Currency & Nepal Land tools.
+CATEGORY: Tools
+FULL DESCRIPTION:
+HisabPro – सबै हिसाब, एउटै App
+
+A fast, offline calculator and utility app made for users in Nepal. No login, no account.
+
+• Calculator with brackets, percentage, history, copy & share
+• Percentage, Discount, Profit & Loss, VAT (rate editable)
+• EMI, Simple Interest, Compound Interest, Salary
+• Nepal Land converter: Ropani, Aana, Paisa, Daam, sq ft, sq m, acre, hectare
+• Age calculator, Date difference, Add/Subtract days, Weekday, Time difference
+• Currency converter (NPR, USD, INR, EUR, GBP, AUD, CAD, AED, SAR, QAR, JPY, CNY) using approximate, editable rates – not live rates
+• Unit converter: length, weight, area, temperature, volume, digital
+• Nepali & English, Light/Dark mode, search
+
+Works offline. Calculation history stays on your device and can be cleared anytime.
+
+SCREENSHOT CAPTIONS (add on real screenshots):
+1 Home – All Your Calculations in One App
+2 Calculator – Fast & Easy Calculator
+3 EMI – Calculate EMI Easily
+4 Age/Date – Calculate Age & Date Difference
+5 Land – Ropani • Aana • Paisa • Daam
